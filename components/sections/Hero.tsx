@@ -14,7 +14,7 @@ const Hero = () => {
           designed to bring out your individuality and cater to your sense of
           style.
         </p>
-        <Button size="lg" className="mt-8">
+        <Button size="lg" className="mt-8 rounded-full">
           Shop Now
         </Button>
       </div>
